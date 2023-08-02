@@ -2,4 +2,5 @@
 ## Class: NT532.N22.CTTT
 ### Topic: 
 ### Member: Le Minh Huy     - 21521759
-###        Tran Thanh Truc - 21521746
+###         Tran Thanh Truc - 21521746
+###         Nguyen Phat Huy - 21522852
